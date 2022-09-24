@@ -10,9 +10,9 @@
 
 目前已收录：
 
-[用python设计第一个游戏]([用Python设计第一个游戏_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1c4411e77t?p=3&vd_source=b948e0481ae56728c763719a74f42095))
+([用Python设计第一个游戏_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1c4411e77t?p=3&vd_source=b948e0481ae56728c763719a74f42095))
 
-[变量和字符串（上）]([变量和字符串（上）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1c4411e77t?p=4&vd_source=b948e0481ae56728c763719a74f42095))
+([变量和字符串（上）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1c4411e77t?p=4&vd_source=b948e0481ae56728c763719a74f42095))
 
-[变量和字符串（下）]([变量和字符串（下）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1c4411e77t?p=5&vd_source=b948e0481ae56728c763719a74f42095))
+([变量和字符串（下）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1c4411e77t?p=5&vd_source=b948e0481ae56728c763719a74f42095))
 

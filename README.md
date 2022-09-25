@@ -16,4 +16,4 @@
 
 [变量和字符串（下）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1c4411e77t?p=5&vd_source=b948e0481ae56728c763719a74f42095)
 
-[是时候该讲讲代码了 哔哩哔哩 bilibili](https://www.bilibili.com/video/BV1c4411e77t/?p=6&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=b948e0481ae56728c763719a74f42095)
+[](https://www.bilibili.com/video/BV1c4411e77t/?p=6&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=b948e0481ae56728c763719a74f42095)

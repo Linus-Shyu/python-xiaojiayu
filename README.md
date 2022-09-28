@@ -19,3 +19,5 @@
 [是时候该讲讲代码了_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1c4411e77t?p=6&vd_source=b948e0481ae56728c763719a74f42095)
 
 [改进我们的小游戏（上）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1c4411e77t?p=7&vd_source=b948e0481ae56728c763719a74f42095)
+
+[改进我们的小游戏（下）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1c4411e77t?p=8&vd_source=b948e0481ae56728c763719a74f42095)
